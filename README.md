@@ -1,6 +1,6 @@
 # gulp-exports
 
-Experimental gulp with `exports` as tasks.
+Experimental gulp with `exports` as tasks. See https://github.com/gulpjs/gulp-cli/pull/47
 
 ```js
 import gulp from 'gulp';
